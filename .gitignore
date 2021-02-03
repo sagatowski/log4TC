@@ -9,3 +9,5 @@ source/**/obj/
 # Visual Studio 2015 cache/options directory
 .vs/
 LineIDs.dbg
+# backup files tc3
+*.bak
